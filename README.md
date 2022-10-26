@@ -84,7 +84,7 @@ public class Connection : MonoBehaviour
 
 # Server side (Node.js)
 
-**1.** [Download the project](https://github.com/codemaker2015/UnityWebsocketClient/archive/master.zip) and switch to the NodeServer directory
+**1.** [Download the project](https://github.com/codemaker2015/Unity-Websocket-Client/archive/refs/heads/master.zip) and switch to the NodeServer directory
 
 ```
 cd NodeServer
