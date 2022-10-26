@@ -9,7 +9,8 @@ This is the simplest WebSocket library for Unity without using any external DLL'
 *Requires Unity 2019.4+ with .NET 4.x+ Runtime*
 
 ### Client side (Unity3D)
-**1.** [Download the project](https://github.com/codemaker2015/UnityWebsocketClient/archive/master.zip)
+**1.** [Download the project](https://github.com/codemaker2015/Unity-Websocket-Client/archive/refs/heads/master.zip)
+
 **2.** Open UnityClient folder in the UnityHub
 
 
